@@ -49,12 +49,19 @@ git push -u origin main
 
 1. Mirá tus remotos.
 
+![](/imagenes/C3.png)
+
 ### Visualizando la página web
 
 1. Visualiza con php el contenido de la página web( ``php -S 0:8080``).
+
+![](/imagenes/C4.png)
+
 2. Introduce dentro de la carpeta img una imagen de tu foto o avatar. El nombre del archivo debe de llevar como nombre tu nombre. 
 3. Dentro de la carpeta profile crea un archivo html con el mismo nombre del archivo de la imagen que copiaste en el punto anterior.
 4. Lanza el comando php para que se muestre el contenido de la página web y ver cómo se ha modificado.
+
+![](/imagenes/C5.png)
 
 ### Colaborando
 
@@ -63,15 +70,38 @@ git push -u origin main
 ![Aquí se muestra la configuración de colaboradores](imagenes/colaboradores.png)
 
 1. Comparte tu proyecto con al menos dos compañeros.
+
+![](/imagenes/C1.png)
+
 1. Para cada uno de los proyectos  de tus compañeros:
 	1. Acepta la invitación de colaboración en su repositorio.
-	1. Clona el repositorio (Recuerda que tendrás que crear una carpeta nueva para él).
-	1. Añade una nueva rama con tu nombre(``git branch``).
+
+	![](/imagenes/C2.png)
+ 
+ 	1. Clona el repositorio (Recuerda que tendrás que crear una carpeta nueva para él).
+   	1. Añade una nueva rama con tu nombre(``git branch``).
 	1. Cámbiate a la rama que has creado(``git checkout``).
 	1. Comprueba en que rama te encuentras (``git`` status te dá la información).
 	1. Mira los remotos que tienes configurados.
-	1. Añade en esa rama tus archivos de usuario (foto y profile).
-	1. Sube los cambios de tu rama al repositorio remoto y comprueba que puedes verlos en la web.
+	
+	![](/imagenes/C6.png)
+	
+   	1. Añade en esa rama tus archivos de usuario (foto y profile).
+
+	![](/imagenes/C7.png)
+
+	![](/imagenes/C8.png)
+
+	![](/imagenes/C10.png)
+ 
+ 	1. Sube los cambios de tu rama al repositorio remoto y comprueba que puedes verlos en la web.
+
+	![](/imagenes/C9.png)
+
+	![](/imagenes/C11.png)
+
+	![](/imagenes/C12.png)
+
 
 > Ahora vamos a hacer modificaciones en la rama main de tus compañeros. Es importante que el tiempo entre el push y el pull sea pequeño, ya que si en ese tiempo hay modificaciones por parte de otro colaborador, es posible que haya inconsistencias, en cuyo caso tendremos que utilizar ``git merge``.
 
