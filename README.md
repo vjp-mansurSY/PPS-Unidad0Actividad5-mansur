@@ -99,6 +99,8 @@ git push -u origin main
 
 	![](/imagenes/C12.png)
 
+	![](/imagenes/C18.png)
+
 
 > Ahora vamos a hacer modificaciones en la rama main de tus compañeros. Es importante que el tiempo entre el push y el pull sea pequeño, ya que si en ese tiempo hay modificaciones por parte de otro colaborador, es posible que haya inconsistencias, en cuyo caso tendremos que utilizar ``git merge``.
 
@@ -118,7 +120,7 @@ git push -u origin main
 1. Comprueba en qué rama te encuentras.
 1. Comprueba que tus compañeros hayan creado sus ramas en tu repositorio (``git branch``). Si no es así...!!!! échales una mano, hombre¡¡¡¡¡
 
-![](/imagenes/C18.png)
+![](/imagenes/C19.png)
 
 1. Comprueba con ``git diff`` las diferencias existentes entre las ramas Main y las de tus compañeros
 
