@@ -91,14 +91,8 @@ git push -u origin main
 	![](/imagenes/C7.png)
 
 	![](/imagenes/C8.png)
-
-	![](/imagenes/C10.png)
  
  	1. Sube los cambios de tu rama al repositorio remoto y comprueba que puedes verlos en la web.
-
-	![](/imagenes/C9.png)
-
-	![](/imagenes/C11.png)
 
 	![](/imagenes/C12.png)
 
@@ -108,10 +102,21 @@ git push -u origin main
 1. Cambiate a la rama main de los proyectos de tus compañeros
 1. Sincroniza en __local__ la rama __main__. (puedes comprobar qué compañeros han subido datos lanzando la aplicación web con php).
 1. Añade en ella tus archivos de usuario (foto y profile).
+
+![](/imagenes/C9.png)
+
+![](/imagenes/C10.png)
+
 1. Sube los cambios a la rama main de los repositorios de tus compañeros.
+
+![](/imagenes/C11.png)
+
 1. Vuelve a tu repositorio.
 1. Comprueba en qué rama te encuentras.
 1. Comprueba que tus compañeros hayan creado sus ramas en tu repositorio (``git branch``). Si no es así...!!!! échales una mano, hombre¡¡¡¡¡
+
+![](/imagenes/C18.png)
+
 1. Comprueba con ``git diff`` las diferencias existentes entre las ramas Main y las de tus compañeros
 
 ### Erre que erre con Git Logs
@@ -119,11 +124,24 @@ git push -u origin main
 >Repasemos git logs
 
 1. Muestra los logs
+
+![](/imagenes/C13.png)
+
 2. Muestra los logs de los últimos 3 commits
+
+![](/imagenes/C14.png)
+
 1. Muestra los logs utilizando el modificador ``--pretty``
+
+![](/imagenes/C15.png)
+
 1. Muestra los logs de los últimos 2 commits donde se vean las diferencias de cada una de las entradas.
+
+![](/imagenes/C16.png)
+
 1. Muestra los logs de las modificaciones realizadas en el último día
 
+![](/imagenes/C17.png)
 
 ### Entrega
 
