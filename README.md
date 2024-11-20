@@ -79,6 +79,9 @@ git push -u origin main
 	![](/imagenes/C2.png)
  
  	1. Clona el repositorio (Recuerda que tendrás que crear una carpeta nueva para él).
+
+	![](/imagenes/C5II.png)
+
    	1. Añade una nueva rama con tu nombre(``git branch``).
 	1. Cámbiate a la rama que has creado(``git checkout``).
 	1. Comprueba en que rama te encuentras (``git`` status te dá la información).
